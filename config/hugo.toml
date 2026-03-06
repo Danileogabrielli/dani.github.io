@@ -4,7 +4,7 @@
 
 baseURL = "https://danileogabrielli.github.io/dani.github.io/"
 defaultContentLanguage = "en"
-theme = "congo
+theme = "congo"
 enableRobotsTXT = true
 summaryLength = 0
 
