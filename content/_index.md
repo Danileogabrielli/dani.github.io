@@ -2,7 +2,7 @@
 #date = '2026-03-06T22:02:25+01:00'
 #draft = true
 layout = "profile"
-description = "Making sure the backend doesn't catch fire while you're asleep"
+#description = "Making sure the backend doesn't catch fire while you're asleep"
 title = 'Daniel Leonardo Gabrielli | Infra & Systems Grit | dani.ar'
 description = "Making sure the backend doesn't catch fire while you're asleep"
 +++
